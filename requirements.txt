@@ -1,0 +1,7 @@
+azure-functions
+azure-functions
+azure-cosmos==3.1.2
+jsonschema==3.2.0
+redis==3.4.1
+--find-links wheelhouse
+psycopg2
